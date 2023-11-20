@@ -17,7 +17,7 @@
 <img width="310" alt="Снимок экрана 2023-11-20 в 11 34 10" src="https://github.com/Elena01001/FirebaseAuthIOSApp/assets/98683741/73724e06-46fc-4417-ace9-370b50a5aa0a">
 <img width="307" alt="Снимок экрана 2023-11-20 в 11 37 57" src="https://github.com/Elena01001/FirebaseAuthIOSApp/assets/98683741/78aaa9c7-7343-4549-b901-01bb485d4e5b">
 
-* #### Зарегистрированные пользователи в Firebase
+* #### зарегистрированные пользователи в Firebase:
 <img width="1279" alt="Снимок экрана 2023-11-20 в 12 04 02" src="https://github.com/Elena01001/FirebaseAuthIOSApp/assets/98683741/8c53603a-b881-4ba6-ad5c-48df9151f422">
 
 
