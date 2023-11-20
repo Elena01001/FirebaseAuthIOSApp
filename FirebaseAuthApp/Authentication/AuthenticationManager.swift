@@ -13,7 +13,7 @@ import FirebaseAuth
 
 final class AuthenticationManager {
     
-    static let shared = AuthenticationManager() // лучше использовать Dependency Injection вместо синглтона
+    static let shared = AuthenticationManager()
     private init() { }
     
     func getAuthenticatedUser() throws -> AuthDataResultModel { // не асинк, тк не идет на сервер Firebase юзера проверять, проверяет локально
